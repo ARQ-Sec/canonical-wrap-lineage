@@ -1,0 +1,1 @@
+PARTNER_RUNTIME_TOKEN=base64-looking-example-only
